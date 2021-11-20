@@ -16,4 +16,4 @@ print (combination(6,2))
 #c = n!/(r!(n-r)!)
 #c = combination
 #n = number of items in set
-#r = number of choosing objects from the set
+#r = number of choosing items from the set
