@@ -9,4 +9,4 @@ def factorial (x):
 		return x * factorial(x - 1)
 
 
-print (combination(3))
+print (combination(6,2))
